@@ -5,10 +5,22 @@
 -   Laravel 10
 -   Laragon
 -   Composer
--   Node js
+-   Node jS
 -   TailwindCSS
+-   Alphine JS
 -   Flowbite
 -   Lararvel Breeze
+
+### Part 1 - Membuat Halaman Home
+
+-   Ambil landing page dari TailwindUI
+-   Ambil footer dari blog templates di Flowbite
+-   Tambahkan interaksi mobile sidebar menggunakan AlphineJS
+-   Tambahkan animasi show hide sidebar
+-   Tambahkan font inter & edit config tailwind
+-   Edit konten web
+
+### Part 2 - Membuat Halaman Blog
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
